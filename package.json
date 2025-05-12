@@ -1,0 +1,19 @@
+{
+  "name": "notion-grid-widget",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^15.3.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "@notionhq/client": "^3.10.0",
+    "dotenv": "^16.0.0",
+    "react-slick": "^0.29.0",
+    "slick-carousel": "^1.8.1"
+  }
+}
