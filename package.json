@@ -7,13 +7,16 @@
     "build": "next build",
     "start": "next start"
   },
+  {
+  // …
   "dependencies": {
     "next": "^15.3.2",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "@notionhq/client": "^3.10.0",
+    "@notionhq/client": "^3.10.0",     // ← use a released version here
     "dotenv": "^16.0.0",
     "react-slick": "^0.29.0",
     "slick-carousel": "^1.8.1"
   }
 }
+
